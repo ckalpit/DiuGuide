@@ -1,0 +1,43 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+
+    tools:context="com.mak.mayur.diutourism.About">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="“An extraordinary magical land of peace.”"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+
+        android:textStyle="bold|italic" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="fill_parent"
+            android:padding="4dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="     Look around Ilha de Calma and you will find Portuguese history infused in its very being. Enriched with fascinating tales of the bygone era, this serene island became a part of the Indian Union Territory on December 19, 1961. Deriving its name from the Sanskrit word ‘dweep’, history has established it as an untouched island boasting of a magical blend
+of sea, sand and sun. Whether it is the food or even the brilliant architecture, you will find a surreal touch of Portuguese history running through the veins of the island. From this confluence of cultures, Diu’s own legends and tales have emerged. Take a break, take your time. Uncover myriad secrets of Diu covered under layers of time.
+"
+            android:id="@+id/textView2"
+            android:layout_below="@+id/textView"
+            android:textSize="17dp"
+            android:background="@android:color/transparent" />
+
+    </ScrollView>
+
+</LinearLayout>

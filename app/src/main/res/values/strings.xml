@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Diu Guide</string>
+    <string name="title_section1">Near By</string>
+    <string name="title_section2">Popular Spot</string>
+    <string name="title_section3">Stay</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="l_Title">
+        <item>HOTEL UMASHAKTI</item>
+        <item>HOTEL MAHESHWARI</item>
+        <item>HOTEL HEMAL GARDEN</item>
+        <item>HOTEL JAGAT</item>
+        <item>HOTEL GALAXY</item>
+        <item>RICHIE RICH RESORT</item>
+        <item>THE RESORT HOKA</item>
+        <item>HOTEL PALMS</item>
+        <item>PRABHAT BEACH RESORT</item>
+        <item>PARAMOUNT BEACH RESORT</item>
+        <item>HOTEL RELAX INN</item>
+        <item>HOTEL ALISHAN</item>
+        <item>GANGASAGAR GUEST HOUSE</item>
+        <item>HOTEL JAY SHANKAR</item>
+        <item>HOTEL LAABH</item>
+        <item>HAREKRISHNA GUEST HOUSE</item>
+        <item>HOTEL ASHIYANA</item>
+        <item>HOTEL SUPER SILVER</item>
+        <item>POONAM GUEST HOUSE</item>
+        <item>PLAZA PAYING GUEST HOUSE</item>
+        <item>HOTEL ROYAL</item>
+        <item>NEW MANEK</item>
+    </string-array>
+    <string-array name="l_add">
+        <item>Near Vegetable Market, Near Vegetable Market , Diu 362520</item>
+        <item>Nr Betawadi, Vanakbara Road, Vanakbara, Diu – 362570, UT(Union Territory), Country India</item>
+        <item>Naida Road, Opposite Cricket GrounD, Diu 362520, India</item>
+        <item>Hotel Jagat, Bunder Chowk, Diu (U.T.) - 362520 (U.T.)</item>
+        <item>Hotel Galaxy Diu, Near Bus Diu Stand</item>
+        <item>3340/7 Nagoa beach</item>
+        <item>Hoka Island Villa, Nagoa Beach</item>
+        <item>Hotel Palms / Khajura Restaurant, Kodidhar Beach, Nagoa</item>
+        <item>Prabhat Beach Resort, Nagoa Beach</item>
+        <item>beach and resort, Nagoa</item>
+        <item>Bunder Road</item>
+        <item>Fort Road, Bander Chowk</item>
+        <item>Nagoa Beach, Nagoa</item>
+        <item>Diu HO, Jalandar Beach</item>
+        <item>Main Bazar, Parsiwada</item>
+        <item>Main Bazar</item>
+        <item>Opp Jain Derasar</item>
+        <item>Near Vegetable Market</item>
+        <item>Maruti Nagar</item>
+        <item>Vijay Bhat Road</item>
+>                                        <item>Bank Of Baroda, Main Bazar</item>
+        <item>Fort Road, Opp. Plice Station</item>
+    </string-array>
+    <string-array name="m_Title">
+        <item>HOTEL KHUSHI</item>
+        <item>HOTEL CIDADE</item>
+        <item>HOTEL APANA</item>
+        <item>HOTEL SAMRAT</item>
+        <item>SEAVIEW</item>
+        <item>HOTEL ANKUR</item>
+        <item>HOTEL PRINCE</item>
+    </string-array>
+    <string-array name="m_add">
+        <item>Hotel Khushi, Bandar Chowk</item>
+        <item>Behind Hotel Samrat, Near Vegetable Market</item>
+        <item>Fort Road</item>
+        <item>Near Vegetable Market, Old Collectorate Road</item>
+        <item>Opp. Check post, Ghoghala</item>
+        <item>Jethibai Marg,Nr.Jethibai Bus Stand</item>
+        <item>Main Bazar</item>
+    </string-array>
+    <string-array name="h_Title">
+        <item>AZZARO RESORT and SPA</item>
+        <item>RADHIKA BEACH RESORT</item>
+        <item>HOTEL KOHINOOR</item>
+        <item>SUGATI BEACH RESORT</item>
+        <item>RASAL BEACH RESORT</item>
+        <item>HOTEL APAAR</item>
+        <item>KOSTAMAR BEACH RESORT</item>
+    </string-array>
+    <string-array name="h_add">
+        <item>Fofrara-Fudam</item>
+        <item>Nagoa Beach</item>
+        <item>Fofrara-Fudam</item>
+        <item>Opposite Check Post, Ghoghla</item>
+        <item>Nagoa beach</item>
+        <item>Bunder Chowk, Opp: Govt. Parking</item>
+        <item>Nagoa Beach, Nagoa</item>
+    </string-array>
+    <string-array name="des">
+        <item>One of the advantages of being on an island is that you are bound by a beautiful coastline. Diu has a number of beautiful beaches including Chakratirth Beach. This beach is centrally located, adjoining the town of Diu.</item>
+        <item>The Church of St. Thomas was constructed in 1598, and it served as one of the major churches of Portuguese India. The Church is one of the few churches in India that boasts of Gothic style architecture. Its whitewashed exteriors still bear the worn out and faded frescos of the Portuguese era. In 1998, the abandoned church of St. Thomas was converted into a museum</item>
+        <item>Built in 1593, the Church of St Francis of Assisi is one of the oldest and most beautiful churches on the island. A divine message seems to reverberate everywhere when you stand in this church of immaculate architectural beauty. This old church overlooks the mesmerizing Arabian Sea.</item>
+        <item>Get away from the maddening rush of urban-living and lose yourself in the beautiful, calm island of Diu. The Diu cycling track is a part of a green initiative by the Government and is designed to help tourists enjoy the serenity of Diu in its most natural way. Hop on a cycle and explore the island on its newly completed 4.2 km track.</item>
+        <item>The Diu Fort is a majestic sentinel silently overlooking the Arabian Sea. Built in 1535, this Portuguese fort was known to provide a strategic vantage point against enemy attacks. The fort with its double moat, a splendid array of cannons, small chapels, engraved tombstone fragments, and look-out points, presents a perfect getaway for those looking to escape the humdrum of city life.</item>
+        <item>Prepare for a truly unique and calming experience when you visit the Fortress of Panikota. Also known as ‘Fortim do Mar’, this magnificent seafort is built at the mouth of the creek and can be accessed only by canoe or motor boat. In it also reside a lighthouse and a chapel consecrated to Our Lady of the Sea.</item>
+        <item>The temple finds its name in mythology as the temple where the five Pandavas worshipped Lord Shiva during their exile. The most remarkable feature of the Gangeshwar Temple are the five shivlings set amidst the rocks. The shivlings get washed by the waves of the sea, exposing only the tip of the lingams during high tides. The cave temple exudes powerful energy and is much revered by devotees of the mighty Lord Shiva from around the world.</item>
+        <item>Ghoghla Beach, with its golden sands, is the largest beach on the island of Diu. For those seeking adventure, this beach presents the perfect opportunity for swimming, sunbathing, parasailing or surfing. Food and accommodation are easily available at the beach. Ghoghla beach offers splendid views with occasional sightings of dolphins</item>
+        <item>With its quiet environment, ceaselessly rolling waves and white-sands, the Gomtimata Beach has a mesmerising effect on those who come seeking a moment of repose. Swaying palm trees and the cool sea breeze makes this beach popular with tourists from all over the world. Swim, sunbathe or simply dip your feet in the waters of this serene beach. Gomtimata Beach is located to the west of Diu and is easily accessible from anywhere on the island.</item>
+        <item>During the India Pakistan War of 1971, the Indian Naval Ship Khukri sank as a result of three torpedoes fired at her by a Pakistani Submarine, taking down a crew of 18 Officers and 176 sailors. Captain Mahendra Nath Mulla Mahavir Chakra of the Indian Navy, the then Commanding Officer of the ship, chose to go down with the warship. The Memorial pays homage to the heroic act of Captain Mulla and his valiant crew. There is an amphitheater adjoining the memorial. Also, one can see the beauty of sunrise and sunset from the same point here</item>
+        <item>For those looking for a divine experience, a visit to the Shrine is a must. Climb the hillock located just off Jallandhar beach to find the stone carved face of Jallandhar, a mythological demon who was killed by Lord Krishna. Enjoy the beachfront and amazing sea views from up here and let go of all your worries.</item>
+        <item>Boasting of rich Portuguese heritage, the colourful three-storey Nagar Sheth Haveli speaks of Portuguese history like nothing else. The grandeur of its porticoes, carved balconies, stone-made lions and intricate arches in European and Indian styles makes it a must visit place.</item>
+        <item>Nagoa Beach is perhaps the most beautiful and serene beach in Diu. A dip in its crystal clear waters is a must. Or simply unwind, sunbathe, wade in the shallow waters, ride on a camel or pony or try water sports available at the beach. Nagoa beach is home to a peculiar branching palm called “Hoka”. Brought by the Portuguese, Diu is the only place in India to have a luxuriant growth of these trees.</item>
+        <item>The Naida Caves are an explorers delight. Located outside the city wall of the Diu fort, these caves are a network of hewn hollows and steps which beg to be explored. The history of the caves suggests that the Portuguese hacked off building materials during their reign, which resulted in the formation of the caves. Plan a visit on a clear sunny day, and be assured that the caves natural openings will not disappoint with a spectacular display of light.</item>
+        <item>The Shell Museum in Diu is believed to house the largest collection of sea shells in Asia. It boasts of a huge repertoire of about 3000 different types of sea shells. This museum is considered to be a ‘labour of love’, set up by a retired navy Captain Devjibhai Vira Fulbaria. Pay a visit and get carried away by the sound of roaring sea shells.</item>
+        <item>Built in 1610, this impressive church is dedicated to Our Lady of Immaculate Conception. Its baroque style of architecture and curiously treated volutes make it the most elaborate of all the Portuguese churches in India. This place of worship, with its white spires that seem to reach out to the skies, proclaims peace and divinity in the quite, little enclave of Diu.</item>
+        <item>The Church of St. Thomas was constructed in 1598, and it served as one of the major churches of Portuguese India. The Church is one of the few churches in India that boasts of Gothic style architecture. Its whitewashed exteriors still bear the worn out and faded frescos of the Portuguese era. In 1998, the abandoned church of St. Thomas was converted into a museum</item>
+    </string-array>
+    <string-array name="drawer_titles">
+        <item>Home</item>
+        <item>About City</item>
+        <item>How To Reach</item>
+        <item>Popular Spot</item>
+        <item>Stay</item>
+        <item>About</item>
+    </string-array>
+
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_spot_detail">Spot_detail</string>
+    <string name="title_activity_stay_detail">Stay detail</string>
+    <string name="title_activity_abt_diu">Abt_diu</string>
+    <string name="title_activity_h__t__r">H_T_R</string>
+    <string name="title_activity_abt">Abt</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
